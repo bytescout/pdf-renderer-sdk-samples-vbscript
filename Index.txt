@@ -1,12 +1,12 @@
 ## Index of source code examples:
 
-\Command Line
-\PDF to 1-bit BMP
-\PDF To BMP
-\PDF To EMF
-\PDF To JPEG
-\PDF To PNG
-\PDF To PNG high quality
-\PDF to TIFF multipaged
-\Silent Printing
-\Text-Vector-Image Layers
+\Convert PDF to 1-bit BMP
+\Convert PDF To BMP
+\Convert PDF To EMF
+\Convert PDF To JPEG
+\Convert PDF To PNG
+\Convert PDF To PNG high quality
+\Convert PDF to TIFF multipaged
+\Hide Text or Vector or Image Layer in pdf
+\pdf to image in Command Line
+\Silent PDF Printing
