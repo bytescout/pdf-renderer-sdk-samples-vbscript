@@ -4,6 +4,7 @@
 \Convert PDF To BMP
 \Convert PDF To EMF
 \Convert PDF To High Quality PNG
+\Convert PDF To Image
 \Convert PDF To JPEG
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
