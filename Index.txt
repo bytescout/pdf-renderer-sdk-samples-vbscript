@@ -9,5 +9,7 @@
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
 \Hide Text or Vector or Image Layer In PDF
+\Override Resolution in Multipage TIFF
+\Override Resolution in Rendered Image
 \PDF To Image In Command Line
 \Silent PDF Printing
