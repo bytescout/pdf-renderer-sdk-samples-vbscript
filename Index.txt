@@ -8,6 +8,7 @@
 \Convert PDF To JPEG
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
+\Convert PDF To TIFF
 \Display License Info
 \Hide Text or Vector or Image Layer In PDF
 \Override Resolution in Multipage TIFF
